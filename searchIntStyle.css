@@ -1,0 +1,91 @@
+
+#searchIntContent{
+
+margin-left:auto;
+margin-right:auto;
+background-color:#FFE1C3;
+margin-bottom:10px;
+	}
+
+#topic,#input{
+		
+		 width : 800px;
+		 border-style: solid;
+		 border-color: #928578;
+		 
+		 background-color: #F1EAE1;
+margin-left:auto;
+margin-right:auto;
+		text-align: center;
+ 	
+
+	
+}
+form{margin-bottom:10px;}
+#result{
+		
+		 width : 800px;
+		 border-style: solid;
+		 border-color: #BDBDBD;
+		 
+		 background-color: #FFF;
+
+		
+ 	
+
+	
+}
+
+
+#topic{
+
+		 width : 800px;
+		 border-style: solid;
+		 border-color: #8A8A8A;
+		 
+		 background-color: ##8A8A8A;
+
+		 text-decoration:blink;
+		 	
+
+	
+}
+	
+
+#showList {
+	width: 900px;
+	border-style: outset;
+	border-width: 5px;
+	border-color: #0C6;
+	padding: 10px;
+}
+
+#matlistbox00{
+ margin-right:38px;
+ 	margin-top:25px;
+}
+
+
+
+.search{
+	text-align: right;
+
+}
+
+h2{
+	background-color: #FF7A00;
+}
+.menuPointList {
+	list-style-image:url(Star-Full.png);	
+	}
+
+.error {
+	color:red;
+	visibility:hidden;
+	
+}
+#allbtn{
+	visibility:hidden;
+	}
+
+

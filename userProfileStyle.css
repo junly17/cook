@@ -1,0 +1,37 @@
+#body{
+	width: 900px;
+	border-style:solid;
+	padding: 10px;
+	background-color:#F1ECE7;
+}
+
+#profile{
+
+		 width : 700px;
+		 border-style: solid;
+		 border-color: #BDBDBD;
+		 
+		 background-color: #FFF;
+		 margin-left:auto;
+		 margin-right:auto;
+		 	
+
+	
+}
+
+
+.button{
+	text-align: right;
+	background-color: #BDBDBD;
+}
+
+.text{
+	text-align: right;
+
+}
+
+h2{
+	background-color: #9C9C9C;
+}
+
+

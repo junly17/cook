@@ -1,0 +1,93 @@
+/* CSS Document */
+
+    <style type="text/css">  
+li.tit{  
+	height:50px;
+	width:190px;
+
+	}
+#fragment-1{
+	width:841px;
+	background-color:;
+	margin-left:auto;
+	margin-right:auto;
+		}
+#fragment-2{
+	margin-left:auto;
+	margin-right:auto;
+	background-color:;
+		}
+#fragment-3{
+		margin-left:auto;
+	margin-right:auto;
+	width:841px;
+	background-color:;
+		}
+#fragment-4{
+		margin-left:auto;
+	margin-right:auto;
+	width:841px;
+	background-color:;
+		}
+		
+<!--  specify style of user profile's tab  -->		
+		
+#pro{
+	width: 841px;
+	background-color:#F1ECE7;
+}
+
+#profile{
+		 background-color: #FFF;
+		 margin-left:auto;
+		 margin-right:auto;
+}
+.buttonn{
+	text-align: right;
+	background-color: #BDBDBD;
+}
+.text{
+	text-align: right;
+	font-size:16px;
+	
+}
+h2{
+	background-color: #9C9C9C;
+}
+
+input.userprof{
+	border-style:hidden;
+		
+	}
+	
+#prof{
+	text-align: right;
+	background-color: #BDBDBD;
+	}
+#pwdEdit{
+
+	text-align: right;
+	
+	padding:10px;
+	padding-right:300px;
+	border-style:solid;
+	border-color:#808080;
+	
+	
+	}
+
+#username1{
+	border-style:hidden;
+	color:#2A00AA;
+	}	
+	
+.cond{
+	color:#D40055;
+	font-size:15px;
+	font-weight:300;
+	float:right;
+	}
+
+#changePwd{
+	float:right;
+	}

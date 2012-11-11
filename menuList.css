@@ -1,0 +1,23 @@
+﻿div#showList {
+	width: 900px;
+	border-style: outset;
+	border-width: 5px;
+	border-color: #0C6;
+	padding: 10px;
+}
+.menuPointList {
+	list-style-image:url(Star-Full.png);	
+}
+.oddRow {
+	background-color:#F0CB7E;	
+}
+.evenRow {
+	background-color:#F3EBCD;	
+}
+table#menuListTable {
+	margin-top: 10px;
+}
+#groupbtn {
+	float: right;
+	margin-bottom: 10px;
+}

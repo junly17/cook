@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+ul#navi_containTab {
+		list-style:none;
+		top:10px;
+		left:20px;
+		width:auto;
+		background-color:#CCCCCC;
+	}
+	ul#navi_containTab li {
+		display:block;
+		float:left;
+		height:30px;
+		width:200px;
+		line-height:25px;
+		cursor:pointer;
+		text-align:center;
+	}
+	.tabNavi1 {
+		background-color:#FFFF99;
+	}
+	.tabNavi2 {
+		background-color:#CCFFCC;
+	}
+	ul#detail_containTab {
+		list-style:none;
+		left:20px;
+		width:850px;
+	}
+	ul#detail_containTab li {
+		float:left;
+		width:850px;
+		height:auto;
+	}
+	.detailContent1 {
+		background-color:#FFFF99;
+	}
+	.detailContent2 {
+		background-color:#CCFFCC;
+	}
+	.imgOrder {
+		left:0px;
+		width: 120px;
+		height: 120px;
+		border:2px solid #000000;
+	}
+	.detailOrder {
+		position: relative;
+		margin:10px;
+		width: 650px;
+		float:left;
+	}
+	
+	.frame {
+background-color:;
+width:850px;
+height:150px;
+margin:5px 20px;
+}

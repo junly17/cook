@@ -1,0 +1,136 @@
+@charset "utf-8";
+/* CSS Document */
+
+#content{
+	width:900px;
+
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#F7F3F3;
+}
+#postDetail{
+	background-color:#CACACA;
+
+}
+.eachAns{
+	width:700px;	
+	margin-left:20px;
+
+}
+h2,h3{ 
+	text-align:center;
+	font-size:28px;
+	color:#FF8F00;
+	background-color:#444342;
+	
+/*	border-bottom-style:dotted;*/
+
+}
+span.a1{
+	  font-size:16px;
+	  padding-left:18px;
+	  float:left;
+
+	}
+span.a2{
+    font-size:16px;
+	color:#000;
+	font-weight:200;
+	}
+span.a3{
+     font-size:15px;
+	 color:#F90;
+	}
+span.a4{
+	  text-decoration:underline;
+      font-size:16px;
+	  color:#1442B9;  
+	  padding-left:18px;
+	  float:left;
+	}
+#oldAnswer{
+     border-width:thin;
+	 border-color:#F96;
+	padding-left:20px;
+	}
+#answer{
+	margin-left:auto;
+	margin-right:auto;
+    padding-left:20px;
+	}
+span.q1{
+	padding-left : 20px;
+color:#F00;
+	}
+span.q2{
+	padding-left : 20px;
+	}		
+span.q3{	
+	padding-left : 10px;
+	font-size:14px;
+	}	
+span.q4{	
+	padding-left :3px;
+	font-size:14px;
+	}	
+span.q0{	
+	padding-left : 3px;
+	font-size:12px;
+	color:#007F00;
+	}	
+#postQ{
+	margin-left : 20px;
+	}	
+.right{
+	float:right;
+	margin-right:25px;
+	}
+input.readonly	{
+	border:hidden;
+	}
+#edit1{
+	width:60px;
+	height:33px;
+    float:right;	
+}
+#edit2{
+	width:35px;
+	height:33px;
+	float:right;
+	margin-right:25px;
+    margin-left:5px;	
+}
+#save{
+	width:60px;
+	height:35px;
+	}
+.textB{		
+	font-size:15px;
+	font-weight:bold;
+}		
+
+#mess{
+	font-size:20px;
+	background-color:transparent;
+	border-style:hidden;
+}
+#tit{
+
+	font-weight:bold;
+	border-style:hidden;
+	text-align:center;
+	font-size:28px;
+	color:#FF8F00;
+	background-color:#444342;
+}	
+.messA{
+	font-size:16px;
+	background-color:transparent;
+	border-style:hidden;
+}	
+#email,#username{
+	background-color:transparent;
+	border-style:hidden;
+	font-size:16px;
+	color:#2A1FFF;
+}
