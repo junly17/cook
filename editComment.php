@@ -2,7 +2,7 @@
 <?php require_once("fn_layoutControl.php");
 ?>
 <?php	 $conn = connect_db();
-		
+		//$type = $_GET['hidcom2'];
 			$type = $_GET['hidcom2'];
 			$comCon = $_GET['ment'];
 			$mentID= $_GET['hidcom'];
